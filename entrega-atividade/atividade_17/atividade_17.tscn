@@ -21,18 +21,18 @@ text = "executar"
 
 [node name="TextEdit" type="TextEdit" parent="."]
 layout_mode = 0
-offset_left = 56.0
+offset_left = 297.0
 offset_top = 24.0
-offset_right = 233.0
-offset_bottom = 76.0
+offset_right = 488.0
+offset_bottom = 81.0
 placeholder_text = "Insira número 2"
 
 [node name="TextEdit2" type="TextEdit" parent="."]
 layout_mode = 0
-offset_left = 259.0
-offset_top = 21.0
-offset_right = 487.0
-offset_bottom = 77.0
+offset_left = 63.0
+offset_top = 24.0
+offset_right = 291.0
+offset_bottom = 80.0
 placeholder_text = "Insira número 1"
 
 [node name="Label" type="Label" parent="."]
@@ -46,10 +46,10 @@ text = "Exiba o resultado"
 [node name="OptionButton" type="OptionButton" parent="."]
 layout_mode = 1
 anchors_preset = -1
-offset_left = 537.0
-offset_top = 34.0
-offset_right = 668.0
-offset_bottom = 88.0
+offset_left = 509.0
+offset_top = 29.0
+offset_right = 645.0
+offset_bottom = 83.0
 item_count = 4
 popup/item_0/text = "Soma"
 popup/item_0/id = 0
